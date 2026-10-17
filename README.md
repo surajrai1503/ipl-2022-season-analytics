@@ -20,7 +20,6 @@
 7. [Repository Structure](#-repository-structure)
 8. [Getting Started](#-getting-started)
 9. [Limitations & Future Work](#-limitations--future-work)
-10. [Author](#-author)
 
 ---
 
@@ -165,10 +164,3 @@ jupyter
 - Predict match outcomes (logistic regression / random forest) using toss, venue and first-innings score.
 - Build an interactive Streamlit or Power BI dashboard.
 - Extend to multi-season analysis (2008 to 2022).
-
-## 👤 Author
-
-**Your Name**
-[LinkedIn](https://linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username) · your.email@example.com
-
-⭐ If you found this project useful, consider giving it a star!
